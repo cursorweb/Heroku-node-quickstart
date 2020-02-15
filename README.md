@@ -3,8 +3,9 @@ A kinder quickstart for us beginners
 ```bash
 git clone https://github.com/cursorweb/Heroku-node-quickstart.git
 ```
+***
 ```bash
-cd node-js-getting-started
+cd Heroku-node-quickstart
 npm install
 node index.js
 ```
